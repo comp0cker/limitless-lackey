@@ -1,0 +1,729 @@
+<formatdefinitions>
+
+<format>
+	<label>(2015-2016) Legacy-HS-on</label>
+	<set>HS</set>
+	<set>UL</set>
+	<set>UD</set>
+	<set>TM</set>
+	<set>CL</set>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>HSBSP</set>
+	<set>BWBSP</set>
+	<set>DRV</set>
+	<set>TK4</set>
+	<set>TK5</set>
+	<set>M1</set>
+	<set>M2</set>
+</format>
+
+<format>
+	<label>(2014-2015) Expanded-BLW-on</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>DRV</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK5</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>M1</set>
+	<set>M2</set>
+	<set>M3</set>
+</format>
+
+<format>
+	<label>(2015-2016) Expanded-BLW-on</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>DRV</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK5</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>M1</set>
+	<set>M2</set>
+	<set>M3</set>
+	<set>M4</set>
+</format>
+
+<format>
+	<label>(2016-2017) Expanded-BLW-on</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>EVO</set>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>SMBSP</set>
+	<set>DRV</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK5</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>M1</set>
+	<set>M2</set>
+	<set>M3</set>
+	<set>M4</set>
+	<set>M5</set>
+</format>
+
+<format>
+	<label>(2017-2018) Expanded-BLW-on</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>EVO</set>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>SMBSP</set>
+	<set>DRV</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK5</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>TK11</set>
+	<set>M1</set>
+	<set>M2</set>
+	<set>M3</set>
+	<set>M4</set>
+	<set>M5</set>
+	<set>M6</set>
+</format>
+
+<format>
+	<label>(2018-2019) Expanded-BLW-on</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>EVO</set>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
+	<set>DRM</set>
+	<set>LOT</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>SMBSP</set>
+	<set>DRV</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK5</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>TK11</set>
+	<set>M1</set>
+	<set>M2</set>
+	<set>M3</set>
+	<set>M4</set>
+	<set>M5</set>
+	<set>M6</set>
+	<set>M7</set>
+</format>
+
+<format>
+	<label>(1999-2001) Standard-BS-on</label>
+	<set>BS</set>
+	<set>JU</set>
+	<set>FO</set>
+	<set>B2</set>
+	<set>TR</set>
+	<set>GH</set>
+	<set>GC</set>
+	<set>N1</set>
+	<set>WBSP</set>
+</format>
+
+<format>
+	<label>(2001-2002) Standard-TR-on</label>
+	<set>TR</set>
+	<set>GH</set>
+	<set>GC</set>
+	<set>N1</set>
+	<set>N2</set>
+	<set>N3</set>
+	<set>N4</set>
+	<set>LC</set>
+	<set>WBSP</set>
+	<set>SI</set>
+</format>
+
+<format>
+	<label>(2002-2003) Standard-Neo-on</label>
+	<set>N1</set>
+	<set>N2</set>
+	<set>N3</set>
+	<set>N4</set>
+	<set>LC</set>
+	<set>EX</set>
+	<set>AQ</set>
+	<set>SK</set>
+	<set>RS</set>
+	<set>WBSP</set>
+	<set>SI</set>
+	<set>BG</set>
+</format>
+
+<format>
+	<label>(2003-2004) Standard-E-on</label>
+	<set>EX</set>
+	<set>AQ</set>
+	<set>SK</set>
+	<set>RS</set>
+	<set>SS</set>
+	<set>DR</set>
+	<set>MA</set>
+	<set>HL</set>
+	<set>WBSP</set>
+	<set>NBSP</set>
+	<set>BG</set>
+	<set>TK1</set>
+</format>
+
+<format>
+	<label>(2004-2005) Standard-RS-on</label>
+	<set>RS</set>
+	<set>SS</set>
+	<set>DR</set>
+	<set>MA</set>
+	<set>HL</set>
+	<set>RG</set>
+	<set>TRR</set>
+	<set>DX</set>
+	<set>EM</set>
+	<set>NBSP</set>
+	<set>TK1</set>
+	<set>TK2</set>
+	<set>P1</set>
+</format>
+
+<format>
+	<label>(2005-2006) Standard-HL-on</label>
+	<set>HL</set>
+	<set>RG</set>
+	<set>TRR</set>
+	<set>DX</set>
+	<set>EM</set>
+	<set>UF</set>
+	<set>DS</set>
+	<set>LM</set>
+	<set>HP</set>
+	<set>NBSP</set>
+	<set>TK1</set>
+	<set>TK2</set>
+	<set>P1</set>
+	<set>P2</set>
+	<set>P3</set>
+</format>
+
+<format>
+	<label>(2006-2007) Standard-DX-on</label>
+	<set>DX</set>
+	<set>EM</set>
+	<set>UF</set>
+	<set>DS</set>
+	<set>LM</set>
+	<set>HP</set>
+	<set>CG</set>
+	<set>DF</set>
+	<set>PK</set>
+	<set>DP</set>
+	<set>NBSP</set>
+	<set>DPBSP</set>
+	<set>TK2</set>
+	<set>P2</set>
+	<set>P3</set>
+	<set>P4</set>
+	<set>P5</set>
+</format>
+
+<format>
+	<label>(2007-2008) Standard-HP-on</label>
+	<set>HP</set>
+	<set>CG</set>
+	<set>DF</set>
+	<set>PK</set>
+	<set>DP</set>
+	<set>MT</set>
+	<set>SW</set>
+	<set>GE</set>
+	<set>MD</set>
+	<set>NBSP</set>
+	<set>DPBSP</set>
+	<set>TK3</set>
+	<set>P4</set>
+	<set>P5</set>
+	<set>P6</set>
+	<set>P7</set>
+</format>
+
+<format>
+	<label>(2008-2009) Standard-DP-on</label>
+	<set>DP</set>
+	<set>MT</set>
+	<set>SW</set>
+	<set>GE</set>
+	<set>MD</set>
+	<set>LA</set>
+	<set>SF</set>
+	<set>PL</set>
+	<set>RR</set>
+	<set>DPBSP</set>
+	<set>TK3</set>
+	<set>P6</set>
+	<set>P7</set>
+	<set>P8</set>
+	<set>P9</set>
+</format>
+
+<format>
+	<label>(2009-2010) Standard-DP-on</label>
+	<set>DP</set>
+	<set>MT</set>
+	<set>SW</set>
+	<set>GE</set>
+	<set>MD</set>
+	<set>LA</set>
+	<set>SF</set>
+	<set>PL</set>
+	<set>RR</set>
+	<set>SV</set>
+	<set>AR</set>
+	<set>HS</set>
+	<set>UL</set>
+	<set>DPBSP</set>
+	<set>RU</set>
+	<set>MC</set>
+	<set>TK3</set>
+	<set>TK4</set>
+	<set>P6</set>
+	<set>P7</set>
+	<set>P8</set>
+	<set>P9</set>
+</format>
+
+<format>
+	<label>(2010-2011) Standard-MD-on</label>
+	<set>MD</set>
+	<set>LA</set>
+	<set>SF</set>
+	<set>PL</set>
+	<set>RR</set>
+	<set>SV</set>
+	<set>AR</set>
+	<set>HS</set>
+	<set>UL</set>
+	<set>UD</set>
+	<set>TM</set>
+	<set>CL</set>
+	<set>BLW</set>
+	<set>DPBSP</set>
+	<set>HSBSP</set>
+	<set>RU</set>
+	<set>MC</set>
+	<set>TK4</set>
+</format>
+
+<format>
+	<label>(2011-2012) Standard-HS-on</label>
+	<set>HS</set>
+	<set>UL</set>
+	<set>UD</set>
+	<set>TM</set>
+	<set>CL</set>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>HSBSP</set>
+	<set>BWBSP</set>
+	<set>TK4</set>
+	<set>M1</set>
+	<set>M2</set>
+</format>
+
+<format>
+	<label>(2012-2013) Standard-BLW-on</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>BWBSP</set>
+	<set>DRV</set>
+	<set>TK5</set>
+	<set>M1</set>
+	<set>M2</set>
+</format>
+
+<format>
+	<label>(2013-2014) Standard-NXD-on</label>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>DRV</set>
+	<set>KSS</set>
+	<set>TK6</set>
+	<set>M2</set>
+	<set>M3</set>
+</format>
+
+<format>
+	<label>(2014-2015) Standard-BCR-on</label>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>M3</set>
+</format>
+
+<format>
+	<label>(2015-2016) Standard-XY-on</label>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>XYBSP</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>M3</set>
+	<set>M4</set>
+</format>
+
+<format>
+	<label>(2016-2017) Standard-PRC-on</label>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>EVO</set>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>XYBSP</set>
+	<set>SMBSP</set>
+	<set>DCR</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>M4</set>
+	<set>M5</set>
+</format>
+
+<format>
+	<label>(2017-2018) Standard-BKT-on</label>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>EVO</set>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
+	<set>XYBSP</set>
+	<set>SMBSP</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>TK11</set>
+	<set>M5</set>
+	<set>M6</set>
+</format>
+
+<format>
+	<label>(2018-2019) Standard-SUM-on</label>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
+	<set>DRM</set>
+	<set>LOT</set>
+	<set>SMBSP</set>
+	<set>TK10</set>
+	<set>TK11</set>
+	<set>M6</set>
+	<set>M7</set>
+</format>
+
+<format>
+	<label>(2019) Standard-SUM-on + Unbroken Bonds</label>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
+	<set>DRM</set>
+	<set>LOT</set>
+	<set>SMBSP</set>
+	<set>TK10</set>
+	<set>TK11</set>
+	<set>M6</set>
+	<set>M7</set>
+	<set>SM9a</set>
+	<set>SM9b</set>
+	<set>SMK</set>
+	<set>SM10</set>
+	<set>SM-P</set>
+</format>
+
+<format>
+	<label>(2019) Expanded-BLW-on + Unbroken Bonds</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>EVO</set>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
+	<set>DRM</set>
+	<set>LOT</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>SMBSP</set>
+	<set>DRV</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK5</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>TK11</set>
+	<set>M1</set>
+	<set>M2</set>
+	<set>M3</set>
+	<set>M4</set>
+	<set>M5</set>
+	<set>M6</set>
+	<set>M7</set>
+	<set>SM9a</set>
+	<set>SM9b</set>
+	<set>SMK</set>
+	<set>SM10</set>
+	<set>SM-P</set>
+</format>
+
+</formatdefinitions>
